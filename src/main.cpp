@@ -12,5 +12,6 @@ void loop() {
   int p ;
   digitalWrite(3,HIGH);
   digitalWrite(4,HIGH);
+  digitalWrite(3,LOW);
     
 }pwd
