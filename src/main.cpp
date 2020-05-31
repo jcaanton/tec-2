@@ -11,5 +11,6 @@ void loop() {
   i++;
   int p ;
   digitalWrite(3,HIGH);
+  digitalWrite(4,HIGH);
     
 }pwd
